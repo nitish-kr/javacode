@@ -1,3 +1,9 @@
+/*
+    *
+    *Nitish Kumar Ojha
+    *IGNOU (BCA)
+    *
+ */
 class Multiple37 {
     public static boolean isdivby3or7(int num) {
         if (num % 7 == 0 || num % 3 == 0)

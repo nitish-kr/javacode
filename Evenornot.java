@@ -1,3 +1,9 @@
+/*
+    *
+    *Nitish Kumar Ojha
+    *IGNOU (BCA)
+    *
+ */
 class Evenornot {
     public static boolean isEven(int num) {
         if (num % 2 == 0)

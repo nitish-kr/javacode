@@ -1,3 +1,10 @@
+/*
+*
+*Nitish Kumar Ojha
+*IGNOU (BCA)
+*
+*/
+
 class Accending {
     public static boolean larger(int num, int num1, int num2) {
         return (num < num1 && num1 < num2)  ? true : false;

@@ -1,3 +1,9 @@
+/*
+    *
+    *Nitish Kumar Ojha
+    *IGNOU (BCA)
+    *
+ */
 class Countdig {
     public static int countdig(int num) {
         int temp, count = 0;

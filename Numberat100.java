@@ -1,3 +1,9 @@
+/*
+    *
+    *Nitish Kumar Ojha
+    *IGNOU (BCA)
+    *
+ */
 class Numberat100 {
     public static int numberat100(int num) {
         int temp, count = 0;

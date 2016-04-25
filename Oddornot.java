@@ -1,3 +1,9 @@
+/*
+    *
+    *Nitish Kumar Ojha
+    *IGNOU (BCA)
+    *
+ */
 class Oddornot {
     public static boolean isOdd(int num) {
         if (num % 2 == 0)

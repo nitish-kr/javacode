@@ -1,3 +1,9 @@
+/*
+	*
+	*Nitish Kumar Ojha
+	*IGNOU (BCA)
+	*
+ */
 class Andboolean
 {
 	public static void main(String arg[])

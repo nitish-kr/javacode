@@ -1,3 +1,9 @@
+/*
+    *
+    *Nitish Kumar Ojha
+    *IGNOU (BCA)
+    *
+ */
 class Primeornot {
     public static boolean isPrime(int num) {
         int i, count = 0;

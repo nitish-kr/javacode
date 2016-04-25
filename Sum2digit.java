@@ -1,3 +1,9 @@
+/*
+    *
+    *Nitish Kumar Ojha
+    *IGNOU (BCA)
+    *
+ */
 class Sum2digit {
     public static int sumdigits(int num) {
         int temp, sum = 0;

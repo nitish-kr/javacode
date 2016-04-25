@@ -1,3 +1,9 @@
+/*
+	*
+	*Nitish Kumar Ojha
+	*IGNOU (BCA)
+	*
+ */
 class Areaofsquare
 {
 	public static void main(String arg[])

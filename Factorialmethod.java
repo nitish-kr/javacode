@@ -1,3 +1,9 @@
+/*
+    *
+    *Nitish Kumar Ojha
+    *IGNOU (BCA)
+    *
+ */
 class Factorialmethod {
     public static int Factorialmethod(int num) {
         int fact = 1, i;

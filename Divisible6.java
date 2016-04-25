@@ -1,3 +1,9 @@
+/*
+    *
+    *Nitish Kumar Ojha
+    *IGNOU (BCA)
+    *
+ */
 class Divisible6 {
     public static boolean isdivby6(int num) {
         if (num % 6 == 0)

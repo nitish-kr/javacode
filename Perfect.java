@@ -1,3 +1,9 @@
+/*
+    *
+    *Nitish Kumar Ojha
+    *IGNOU (BCA)
+    *
+ */
 class Perfect {
     public static boolean perfect(int num) {
         int temp = 0;

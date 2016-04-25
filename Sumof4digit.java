@@ -1,3 +1,9 @@
+/*
+	*
+	*Nitish Kumar Ojha
+	*IGNOU (BCA)
+	*
+ */
 class Sumof4digit {
     public static void main(String arg[]) {
         int result = calculateSum(12345);

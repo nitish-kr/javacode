@@ -1,3 +1,9 @@
+/*
+    *
+    *Nitish Kumar Ojha
+    *IGNOU (BCA)
+    *
+ */
 class Lottry2 {
     public static int reward(int num) {
         if (num % 4 == 0 && num % 7 == 0)

@@ -1,3 +1,9 @@
+/*
+	*
+	*Nitish Kumar Ojha
+	*IGNOU (BCA)
+	*
+ */
 class Blackjack
 {
 	public static void main(String arg[])

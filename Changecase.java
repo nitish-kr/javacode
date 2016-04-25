@@ -1,3 +1,9 @@
+/*
+	*
+	*Nitish Kumar Ojha
+	*IGNOU (BCA)
+	*
+ */
 class Changecase {
     public static char changecase(char ch) {
         char ch2;

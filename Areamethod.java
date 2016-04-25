@@ -1,3 +1,9 @@
+/*
+	*
+	*Nitish Kumar Ojha
+	*IGNOU (BCA)
+	*
+ */
 class Areamethod {
     public static double calculate_area(double radius) {
         double area = 3.141 * radius * radius;

@@ -1,3 +1,9 @@
+/*
+	*
+	*Nitish Kumar Ojha
+	*IGNOU (BCA)
+	*
+ */
 class Add {
     public static int add(int num1, int num2) {
         int sum = num1 + num2;

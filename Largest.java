@@ -1,3 +1,9 @@
+/*
+    *
+    *Nitish Kumar Ojha
+    *IGNOU (BCA)
+    *
+ */
 class Largest {
     public static int larger(int num, int num1, int num2) {
         if (num > num1 && num > num2)

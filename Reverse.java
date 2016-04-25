@@ -1,3 +1,9 @@
+/*
+    *
+    *Nitish Kumar Ojha
+    *IGNOU (BCA)
+    *
+ */
 class Reverse {
     public static int reverse(int num) {
         int temp, rev = 0;

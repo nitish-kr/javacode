@@ -1,3 +1,9 @@
+/*
+    *
+    *Nitish Kumar Ojha
+    *IGNOU (BCA)
+    *
+ */
 class Numberofdays {
     public static int numberofdays(int num) {
         if (num == 1)

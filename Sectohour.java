@@ -1,3 +1,9 @@
+/*
+	*
+	*Nitish Kumar Ojha
+	*IGNOU (BCA)
+	*
+ */
 class Sectohour {
     public static void main(String arg[]) {
         double result = toHours(5400);

@@ -1,3 +1,9 @@
+/*
+	*
+	*Nitish Kumar Ojha
+	*IGNOU (BCA)
+	*
+ */
 class Larger {
     public static boolean larger(int num, int num1, int num2) {
         return ((num > num1 || num > num2) ? true : false);

@@ -1,3 +1,9 @@
+/*
+    *
+    *Nitish Kumar Ojha
+    *IGNOU (BCA)
+    *
+ */
 class Pallindromeornot {
     public static boolean isPallindrome(int num) {
         int temp, rev = 0;

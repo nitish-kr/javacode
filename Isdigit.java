@@ -1,3 +1,9 @@
+/*
+    *
+    *Nitish Kumar Ojha
+    *IGNOU (BCA)
+    *
+ */
 class Isdigit {
     public static boolean isdigit(int num) {
         if (num >= 0 && num <= 9)
